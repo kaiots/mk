@@ -1,3 +1,11 @@
+---
+hide:
+  - navigation
+  - toc
+
+subtitle: 
+---
+
 
 
 

@@ -1,15 +1,8 @@
 ---
-subtitle: Nullam urna elit, malesuada eget finibus ut, ac tortor
+hide:
+  - navigation
+  - toc
 ---
-
-# Page title
-
-<p style="font-size:2.0em;text-align: center">
-
- Диадок
-</p>
-
-
 
 !!! warning ""
 

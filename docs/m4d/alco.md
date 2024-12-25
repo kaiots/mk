@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 
 <p style="font-size:2.0em;text-align: center">
 Добро пожаловать!
