@@ -21,7 +21,6 @@ theme:
     - announce.dismiss # крестик на панели обьявлений
     - navigation.indexes
     - search.suggest
-    ####
 
   plugins:
     - search:
