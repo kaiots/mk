@@ -4,13 +4,21 @@ site_description: Нажмите старт
 site_url: https://inst.kaiot.ru
 watch:
   - includes
+repo_url: https://github.com/squidfunk/mkdocs-material
+extra_css:
+  - hover.css
+  - styles/cookbooks.css
+#extra_javascript:
+#  - 'javascript/init_kapa_widget.js'
+#  - 'javascript/cookbooks.js'
+
 
 theme:
   name: material
   custom_dir: material/overrides
   language: ru
-  logo: assets/1.jpg
-  favicon: assets/1.jpg
+  logo: assets/helicon.png
+  favicon: assets/helicon.png
   features:
     - navigation.tabs #Вкладки навигации верхний уровень
     - search.highlight 
@@ -81,6 +89,7 @@ markdown_extensions:
 
 nav:
   - Главная: index.md
+
     #- Добро пожаловать!: index.md
   - Приступаем к работе: index2.md
   - ЭЦП:
